@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!--  suite name="Bulk Mail Test Suite" -->
+<suite name="Bulk Mail Project Test Suite" >
+
+
+  <test name="Bulk Mail Project testcases">
+    <classes>
+         <class name="com.mail.test.LoginPageTest"/>
+          </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
